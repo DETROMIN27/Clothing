@@ -1,0 +1,21 @@
+body{
+    background-color: #126782;
+    color:#34A0A4;
+}
+
+header{
+    background-color: #023047;
+    color: #34A0A4;
+}
+
+nav{
+    border-bottom: 3px solid black ;
+}
+
+main img{
+    border: 5px solid #023047;
+}
+
+h2{
+    background-color: #023047;
+}
